@@ -1,0 +1,13 @@
+nav a.active{
+
+    color: aqua;
+
+    /* margin-left: 10px; */
+
+}
+
+nav a{
+
+padding: 5px 10px;
+
+}
