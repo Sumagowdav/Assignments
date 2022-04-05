@@ -1,5 +1,5 @@
 import React from "react";
-
+import ContactCard from "./ContactCard";
 const ContactList = (props) =>{ //default parameter props
    console.log(props);
    //create a function to render list.take props and map them and arrow function
